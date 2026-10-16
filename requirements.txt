@@ -1,0 +1,7 @@
+[thema]
+primarycolors="4F46E5"
+backgroundColor="#F9FAFB"
+secondaryBackgroundColor="FFFFFF"
+textcolor="#111827"
+font="sans serif"
+

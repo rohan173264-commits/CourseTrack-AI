@@ -1,0 +1,29 @@
+.stApp{
+    font-family: 'Inter',sans-serif;
+
+}
+
+div[data-testid="stMetric"]{
+    background-color: #FFFFFF;
+    padding: 18px;
+    border-radius: 12px;
+    box-shadow: 0px 4px 12px rgba(0,0,0,0.05);
+    border: 1px solid #E5E7EB;
+}
+
+div[data-testid="stMetric"]label{
+    font-size: 0.9rem;
+    color: #4B5563;
+    font-weight:600;
+}
+
+.stbutton>button{
+    border-radius: 8px;
+    font-weight: 600;
+    transition: all 0.2s ease-in-out;
+}
+.stbutton>button:hover{
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(79,70,229,0.2);
+}
+
